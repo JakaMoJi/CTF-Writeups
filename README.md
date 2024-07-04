@@ -1,6 +1,6 @@
 # CTF-Writeups
 
-CTF Challenge Write-Up: Sequence
+#CTF Challenge Write-Up: Sequence
 Challenge Description
 Name: Sequence
 Description:
